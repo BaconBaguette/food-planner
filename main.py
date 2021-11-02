@@ -2,7 +2,7 @@
 import tkinter as tk
 from tkinter import ttk
 
-##       Food Planner        ##
+##      Food Planner      ##
 
 class FoodPlanner:
     def __init__(self):
